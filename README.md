@@ -26,6 +26,8 @@ but during my experience, i also worked with some other stacks (<b>Wordpress</b>
 
 I always wanted to share my knowledge and that's why I tried to help - review the code for my office colleges as much as possible during the last three year
 
+I'm also interested by creative developement with advanced animation and threeJS
+
 </p>
 
 - ### Knowledge
@@ -39,6 +41,7 @@ I always wanted to share my knowledge and that's why I tried to help - review th
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white" alt="React Badge">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/-Express.js-ffffff?logo=Express&logoColor=black" alt="express Badge">
+<img src="https://img.shields.io/badge/-Three.js-222222?logo=Three.js&logoColor=white" alt="express Badge">
 <br>
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Photoshop-001e36?logo=AdobePhotoshop&logoColor=white" alt="Photoshop Badge">
@@ -51,10 +54,11 @@ I always wanted to share my knowledge and that's why I tried to help - review th
   - [FreeCodeCamp](https://www.freecodecamp.org/)
   - [VueSchool](https://vueschool.io/)
   - [VueMastery](https://www.vuemastery.com/)
+  - [ThreeJS journey](https://threejs-journey.xyz/)
 
 - ### Get in touch
   [![Personal Website][personal-website-shield]][personal-website-url]
-  [![Mail][personal-email-shield]](mailtofabien.kerinec@gmail.com)
+  [![Mail][personal-email-shield]](mailto:fabien.kerinec@gmail.com)
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
