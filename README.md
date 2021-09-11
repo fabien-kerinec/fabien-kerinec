@@ -14,7 +14,7 @@
 </h2>
 <br/>
 
-- ### What I do
+- ### WHAT I DO
 
 <p align="left">
 I'm fabien kerinecI'm a french frontend developer<br>
@@ -30,7 +30,9 @@ I'm also interested by creative developement with advanced animation and threeJS
 
 </p>
 
-- ### Knowledge
+- ### SKILLS
+
+- #### Developpement skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge">
@@ -42,12 +44,16 @@ I'm also interested by creative developement with advanced animation and threeJS
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/-Express.js-ffffff?logo=Express&logoColor=black" alt="express Badge">
 <img src="https://img.shields.io/badge/-Three.js-222222?logo=Three.js&logoColor=white" alt="express Badge">
-<br>
+</p>
+
+- #### Design skills
+
+<p align="left">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Photoshop-001e36?logo=AdobePhotoshop&logoColor=white" alt="Photoshop Badge">
 </p>
 
-- ### My formation
+- ### MY FORMATION
 
   - [OpenClassRoom](https://openclassrooms.com/fr/)
   - [WesBos courses](https://wesbos.com/courses)
@@ -56,7 +62,7 @@ I'm also interested by creative developement with advanced animation and threeJS
   - [VueMastery](https://www.vuemastery.com/)
   - [ThreeJS journey](https://threejs-journey.xyz/)
 
-- ### Get in touch
+- ### GET IN TOUCH
   [![Personal Website][personal-website-shield]][personal-website-url]
   [![Mail][personal-email-shield]](mailto:fabien.kerinec@gmail.com)
   [![LinkedIn][linkedin-shield]][linkedin-url]
