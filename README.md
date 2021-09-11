@@ -37,8 +37,11 @@ I always wanted to share my knowledge and that's why I tried to help - review th
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript-ui&logoColor=white" alt="TypeScript UI Badge">
 <img src="https://img.shields.io/badge/-VueJS-35495e?logo=Vue.js&logoColor=42b983" alt="Vue Badge">
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white" alt="React Badge">
-<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/-Express.js-ffffff?logo=Express&logoColor=black" alt="express Badge">
+<br>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
+<img src="https://img.shields.io/badge/-Photoshop-001e36?logo=AdobePhotoshop&logoColor=white" alt="Photoshop Badge">
 </p>
 
 - ### My formation
