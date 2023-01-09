@@ -18,7 +18,6 @@
 
 <p align="left">
 I'm fabien kerinecI'm a french frontend developer<br>
-I'm searching for a new challenge
 
 Currenly fullstack developer at Madmix Digital, i want to go trought frontend developement
 i mainly work in the Javascript environnement (<b>VueJS</b> - <b>ReactJS</b> - <b>NodeJS</b>)
