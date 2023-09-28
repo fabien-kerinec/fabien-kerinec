@@ -20,7 +20,7 @@
 I'm fabien kerinec<br>
 I'm a french frontend developer<br>
 
-Currenly Javascript / TypeScript developer at Lonestone.<br>
+Currenly Javascript / TypeScript developer at Lonestone. <br>
 I mainly work in the Javascript environnement (<b>ReactJS</b> - <b>VueJS</b> - <b>TypeScript</b> - <b>NodeJS</b>)
 but during my experience, i also worked with some other stacks (<b>Wordpress</b> - <b>Jekyll</b> - <b>PHP</b>)
 
