@@ -19,13 +19,16 @@
 <p align="left">
 I'm fabien kerinecI'm a french frontend developer<br>
 
-Currenly fullstack developer at Madmix Digital, i want to go trought frontend developement
-i mainly work in the Javascript environnement (<b>VueJS</b> - <b>ReactJS</b> - <b>NodeJS</b>)
+Currenly Javascript / TypeScript developer at Lonestone.
+i mainly work in the Javascript environnement (<b>ReactJS</b> - <b>VueJS</b> - <b>TypeScript</b> - <b>NodeJS</b>)
 but during my experience, i also worked with some other stacks (<b>Wordpress</b> - <b>Jekyll</b> - <b>PHP</b>)
 
 I always wanted to share my knowledge and that's why I tried to help - review the code for my office colleges as much as possible during the last three year
 
 I'm also interested by creative developement with advanced animation and threeJS
+
+I'm curently wanted to stepup on frontend architecture that i think is underevaluated by frontend developer. Start to study Hexagonal architecture // Domain Driven Design // Clean architecture // Software craftsmanship
+
 
 </p>
 
