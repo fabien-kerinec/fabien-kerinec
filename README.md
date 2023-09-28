@@ -24,7 +24,7 @@ Currenly Javascript / TypeScript developer at Lonestone. <br>
 I mainly work in the Javascript environnement (<b>ReactJS</b> - <b>VueJS</b> - <b>TypeScript</b> - <b>NodeJS</b>) <br>
 but during my experience, i also worked with some other stacks (<b>Wordpress</b> - <b>Jekyll</b> - <b>PHP</b>)
 
-I always wanted to share my knowledge and that's why I tried to help - review the code for my office colleges as much as possible during the last three year
+I always wanted to share my knowledge and that's why I tried to help - review the code for my office colleges as much as possible during the last three year. And i was involved in mentoring junior or less experienced developer in my missions at Lonestone
 
 I'm also interested by creative developement with advanced animation and threeJS
 
