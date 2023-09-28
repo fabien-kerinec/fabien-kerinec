@@ -17,7 +17,8 @@
 - ### WHAT I DO
 
 <p align="left">
-I'm fabien kerinecI'm a french frontend developer<br>
+I'm fabien kerinec
+I'm a french frontend developer<br>
 
 Currenly Javascript / TypeScript developer at Lonestone.
 i mainly work in the Javascript environnement (<b>ReactJS</b> - <b>VueJS</b> - <b>TypeScript</b> - <b>NodeJS</b>)
