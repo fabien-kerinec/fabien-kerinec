@@ -17,7 +17,7 @@
 - ### WHAT I DO
 
 <p align="left">
-I'm fabien kerinec  
+I'm fabien kerinec</br>
 I'm a french frontend developer<br>
 
 Currenly Javascript / TypeScript developer at Lonestone.
