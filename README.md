@@ -10,7 +10,7 @@
 
 <h1 align="center">Hello | Bonjour</h1>
 <h2 align="center">
-  <a href="https://fabien-kerinec.fr">Portfolio</a>
+  <a href="https://fabien-kerinec.fr">Portfolio (mainly focus on MadMix Digital experience)</a>
 </h2>
 <br/>
 
