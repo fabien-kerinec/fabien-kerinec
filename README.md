@@ -28,7 +28,8 @@ I always wanted to share my knowledge and that's why I tried to help - review th
 
 I'm also interested by creative developement with advanced animation and threeJS
 
-I'm curently wanted to stepup on frontend architecture that i think is underevaluated by frontend developer. Start to study Hexagonal architecture // Domain Driven Design // Clean architecture // Software craftsmanship
+I'm curently wanted to stepup on frontend architecture that i think is underevaluated by frontend developer. <br>
+I started to study <b>Hexagonal architecture</b> - <b>Domain Driven Design</b> - <b>Clean architecture</b> - <b>Software craftsmanship</b>
 
 
 </p>
